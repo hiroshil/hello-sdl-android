@@ -1,0 +1,10 @@
+#ignore Android Studio files
+.idea
+.gradle
+local.properties
+*.iml
+
+# Build files and directories
+*.o
+*.apk
+build
