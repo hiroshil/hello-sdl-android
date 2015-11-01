@@ -8,3 +8,7 @@ local.properties
 *.o
 *.apk
 build
+
+# symollically linked files
+SDL2/
+glm/
